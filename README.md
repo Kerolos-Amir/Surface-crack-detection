@@ -32,5 +32,4 @@ How to Run
 3. Run the project notebook or Python script.
 
 Author
-
-Your Name
+Kerolos Amir
